@@ -1,0 +1,12 @@
+body{
+    display: flex;
+}
+.card{
+    display: inline-block;
+    border: 2px solid black;
+    flex-wrap: wrap;
+    /* width: 200px; */
+    margin: 10px;
+
+    justify-content: center;
+}
